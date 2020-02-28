@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="26911" started-at="2020-02-27T23:39:59 CST" finished-at="2020-02-27T23:40:26 CST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="26911" started-at="2020-02-27T23:39:59 CST" finished-at="2020-02-27T23:40:26 CST">
+      <class name="test.NewAccountTest">
+        <test-method status="PASS" signature="OpenANewAccount()[pri:0, instance:test.NewAccountTest@ee86bcb]" name="OpenANewAccount" duration-ms="26762" started-at="2020-02-27T23:39:59 CST" finished-at="2020-02-27T23:40:26 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenANewAccount -->
+      </class> <!-- test.NewAccountTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
